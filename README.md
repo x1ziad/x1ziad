@@ -1,4 +1,4 @@
-[![MasterHead](https://scitechdaily.com/images/Type-Ia-Supernova-1.gif)] 
+![MasterHead](https://scitechdaily.com/images/Type-Ia-Supernova-1.gif)
 <h1 align="center">Hi 👋, I'm 1Zx</h1>
 <h3 align="center">Charting the cosmos with unyielding wonder, seeking origins in the unknown with relentless optimism</h3>
 <img align="right" alt="Coding" width="400" src="https://perso.astrophy.u-bordeaux.fr/~jleconte/model/runaway_collapse.gif">
