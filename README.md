@@ -18,6 +18,8 @@
 
 - 🤝 I’m looking for help with **Black hole Simulation**
 
+- 📄 You can view my resume [here](https://github.com/x1ziad/x1ziad/blob/main/Resume.pdf)
+
 - 📝 I regularly write articles on [https://orcid.org/0009-0003-7580-7829](https://orcid.org/0009-0003-7580-7829)
 
 - 💬 Ask me about **Anything cosmic!**
