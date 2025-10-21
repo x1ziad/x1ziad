@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **Black hole Simulation**
 
-- 📄 You can view my resume [here](https://drive.google.com/file/d/1fD92SmvKGdjHH6yX4rKuO2z8QzGoN0iy/view)
+
 
 - 📝 I regularly write articles on [https://orcid.org/0009-0003-7580-7829](https://orcid.org/0009-0003-7580-7829)
 
