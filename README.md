@@ -1,32 +1,58 @@
 ![MasterHead](https://scitechdaily.com/images/Type-Ia-Supernova-1.gif)
-<h1 align="center">Hi 👋, I'm 1Zx</h1>
-<h3 align="center">Charting the cosmos with unyielding wonder, seeking origins in the unknown with relentless optimism</h3>
+
+<h1 align="center">Hi 👋, I'm (1Zx)</h1>
+<h3 align="center">Charting the cosmos with unyielding wonder — seeking origins in the unknown with relentless optimism.</h3>
+
+<p align="center"><em>"Somewhere, something incredible is waiting to be known." — Carl Sagan</em></p>
+
 <img align="right" alt="Coding" width="400" src="https://perso.astrophy.u-bordeaux.fr/~jleconte/model/runaway_collapse.gif">
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=x1ziad&label=Profile%20views&color=0e75b6&style=flat" alt="x1ziad" /> </p>
+### 🔭 About Me
+- 💡 I'm a **computational cosmology researcher**, exploring **quantum algorithms and astrophysical simulations** — from **black hole dynamics** to **early universe cosmology**.
+- 🚀 My research bridges **quantum computing** and **astrophysics**, focusing on how quantum-enhanced computation can simulate complex physical systems.
+- 📚 Founder and Author to outreach initiatives through **Stellaris Astronomy Club** and **Cosmic Horizons Initiative (CHI)**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=x1ziad" alt="x1ziad" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/its1ziad" target="blank"><img src="https://img.shields.io/twitter/follow/its1ziad?logo=twitter&style=for-the-badge" alt="its1ziad" /></a> </p>
+### 🪐 Research Interests
+- Quantum Computing Applications in Cosmology  
+- Numerical Simulations of Black Hole Mergers  
+- Relativistic Astrophysics & Gravitational Waves  
+- Quantum Gravity and Large-Scale Structure Formation  
 
-- 🔭 I’m currently working on **A computational cosmology project, especially as they relate to the early Universe.**
+---
 
-- 🌱 I’m currently learning **Machine learning & Black whole Simulation**
+### 🧩 Skills & Tools
+**Programming:** Python, C/C++, Fortran, MATLAB, Ruby  
+**Scientific Libraries:** NumPy, SciPy, TensorFlow, PyTorch, Matplotlib  
+**Software & Tools:** Glue-viz, GYOTO, CIAO 4.17, Git, Anaconda, Docker, LaTeX  
+**Operating Systems:** macOS, Linux, Windows  
 
-- 👯 I’m looking to collaborate on **Machine Learning based Programs**
+---
 
-- 🤝 I’m looking for help with **Black hole Simulation**
+### 🌍 Outreach & Leadership
+- **President**, Stellaris Astronomy Club (EUI) — Leading outreach, workshops, and the student research division.  
+- **Founder & Director**, Cosmic Horizons Initiative — Promoting interdisciplinary space science research.  
+- **Public Relations Officer**, IEEE-EUI Student Branch.  
+- **Founder & Editor**, *Cosmic Horizons Astronomy Magazine* — Inspiring scientific literacy across Egypt.
 
+---
 
+### 🧬 Current Projects
+- Developing **quantum-based simulations** for black hole and wormhole dynamics.  
+- Theoretical modeling of **black hole–white hole transitions** via **entangled qubit lattices**.  
+- Researching **quantum algorithms for cosmological structure formation**.
 
-- 📝 I regularly write articles on [https://orcid.org/0009-0003-7580-7829](https://orcid.org/0009-0003-7580-7829)
+---
 
-- 💬 Ask me about **Anything cosmic!**
+### 🧾 CV
+📄 [Access my CV here](https://drive.google.com/file/d/1sXRCb20Ht3KmmPw2aZw25kRcvs41dJxC/view?usp=sharing)
 
-- 📫 How to reach me **its1ziadd@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 💫 Connect with Me
 <p align="left">
 <a href="https://twitter.com/its1ziad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its1ziad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/its1ziad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="its1ziad" height="30" width="40" /></a>
@@ -34,11 +60,13 @@
 <a href="https://codeforces.com/profile/1zxq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="1zxq" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+### 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=x1ziad&show_icons=true&locale=en&layout=compact" alt="x1ziad" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x1ziad&show_icons=true&locale=en" alt="x1ziad" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=x1ziad&" alt="x1ziad" /></p>
+
+---
+
+<p align="center">🌌 “Exploring the unknown not only reveals the universe — it reveals ourselves.”</p>
