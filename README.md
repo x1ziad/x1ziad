@@ -48,7 +48,7 @@
 ---
 
 ### 🧾 CV
-📄 [Access my CV here](https://drive.google.com/file/d/1sXRCb20Ht3KmmPw2aZw25kRcvs41dJxC/view?usp=sharing)
+📄 [Access my CV here](https://drive.google.com/file/d/1M_-GwQNXemYTXUfHpCnFFXTevY91sgYc/view?usp=sharing)
 
 ---
 
